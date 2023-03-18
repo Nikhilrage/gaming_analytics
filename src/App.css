@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.main__content {
+  margin: 10px 100px;
+  height: 100%;
+}
+.hint_msg {
+  position: absolute;
+  right: 9px;
+  top: 10px;
+  width: 20%;
+  background: green;
+  color: white;
+  padding: 10px 14px;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight: 500;
+}
+.no_content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+  text-decoration: underline;
+}
